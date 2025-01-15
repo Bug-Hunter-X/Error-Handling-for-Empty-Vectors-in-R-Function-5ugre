@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming: improper handling of empty vectors. The `bug.R` file contains a function that calculates the mean of a vector. This function fails when given an empty vector. The `bugSolution.R` file shows the corrected code, which includes error handling for this edge case.
